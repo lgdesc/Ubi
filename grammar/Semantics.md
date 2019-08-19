@@ -5,4 +5,4 @@ In the domain of semantics, we have investigated the following domains so far:
 
 
 [kin]: https://lgdesc.github.io/glio1241/grammar/Kin
-[kin]: https://lgdesc.github.io/glio1241/grammar/Numerals
+[numerals]: https://lgdesc.github.io/glio1241/grammar/Numerals
