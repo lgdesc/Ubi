@@ -17,6 +17,7 @@ A [wordlist] is also available.
 
 
 [phonology]: https://lgdesc.github.io/glio1241/grammar/Phonology
+[tonology]: https://lgdesc.github.io/glio1241/grammar/Tonology
 [syllablestructure]: https://lgdesc.github.io/glio1241/grammar/SyllableStructure
 [morphology]: https://lgdesc.github.io/glio1241/grammar/Morphology
 [semantics]: https://lgdesc.github.io/glio1241/grammar/Semantics
