@@ -12,7 +12,7 @@ This description contains information about [phonology],
 [semantics], and
 [pragmatics].
 
-A [wordlist] is also available. Eventually, there will be a structured [dictionary]. 
+A [word list] is also available. Eventually, there will be a structured [dictionary]. 
 
 Example sentences are accompanied by audio files. 
 
@@ -25,12 +25,13 @@ A list of audio files can be found in the [audio index].
 [syllablestructure]: https://lgdesc.github.io/glio1241/grammar/SyllableStructure
 [morphology]: https://lgdesc.github.io/glio1241/grammar/Morphology
 [semantics]: https://lgdesc.github.io/glio1241/grammar/Semantics
+[syntax]: https://lgdesc.github.io/glio1241/grammar/Syntax
 [pragmatics]: https://lgdesc.github.io/glio1241/grammar/Pragmatics
 [kin]: https://lgdesc.github.io/glio1241/grammar/semantics/Kin
 [numerals]: https://lgdesc.github.io/glio1241/grammar/semantics/Numerals
 
-[lexicon]: https://lgdesc.github.io/glio1241/grammar/lexicon/Dictionary
-[lexicon]: https://lgdesc.github.io/glio1241/grammar/lexicon/Wordlist
+[dictionary]: https://lgdesc.github.io/glio1241/grammar/lexicon/Dictionary
+[word list]: https://lgdesc.github.io/glio1241/grammar/lexicon/Wordlist
 
 [audio index]: https://lgdesc.github.io/glio1241/media/audio/Index
 
