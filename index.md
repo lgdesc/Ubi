@@ -30,8 +30,8 @@ A list of audio files can be found in the [audio index].
 [kin]: https://lgdesc.github.io/glio1241/grammar/semantics/Kin
 [numerals]: https://lgdesc.github.io/glio1241/grammar/semantics/Numerals
 
-[dictionary]: https://lgdesc.github.io/glio1241/grammar/lexicon/Dictionary
-[word list]: https://lgdesc.github.io/glio1241/grammar/lexicon/Wordlist
+[dictionary]: https://lgdesc.github.io/glio1241/lexicon/Dictionary
+[word list]: https://lgdesc.github.io/glio1241/lexicon/Wordlist
 
 [audio index]: https://lgdesc.github.io/glio1241/media/audio/Index
 
