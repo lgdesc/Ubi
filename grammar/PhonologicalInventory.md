@@ -1,118 +1,115 @@
-##Vowels
+## Vowels
+
 There are at least the following vowels: 
 
-###i 
+### i 
 - mi 'o'
 
-###e 
+### e 
 - kle 'burp'
 
 
-###E 
+### E 
 - pErE 'biscuits'
 
 
-###a 
+### a 
 - ba winyo? 'what's up'
 
-###O 
+### O 
 
 
-###o 
+### o 
 - ko 'rice'
 
-###u 
+### u 
 - du 'brother'
 
 
-##Consonants
+## Consonants
 
 There are at least the following consonants
 
-###p 
+### p 
 - pErE 'biscuits'
 - parong 'baby'
 
-###t 
+### t 
 - taro 'welcome to someone from far'
 
-###c 
+### c 
 - cEdE 'it's cold'
 - cEni 'I am cold'
 
-###k 
+### k 
 - ko 'rice'
 - kle 'burp'
 
-###b 
+### b 
 - baje 'where?'
 
-###d 
+### d 
 - du 'brother'
 
-###j ###
+### j
 - baje 'where?'
 - jiiroo 'welcome to someone from close by'
 - jEE 'voilà'
 
-
-###g 
+### g 
 - gwE 'chimp'
 - glaafoo 'telephone land line'
 
-###m 
+### m 
 - mea 'nose'
 - umi 'buttocks'
 
-###n 
+### n 
 - na 'my'
 - nilE 'egg'
 
-###ny ###
+### ny
 - nyoro 'female'
 - ba winyo? 'what's up'
 
-
-###ng 
+### ng 
 - ngewa 'hello y'all'
 - parong 'baby'
 
-###mb 
+### mb 
 - mbi 'father'
 
-###nd 
+### nd 
 - ndi 'mother' 
 
-##gb ==
+## gb
 - gbo 'foot'
 
-###f ###
+### f
 - glaafoo 'telephone land line'
 
-
-###v ###
+### v
 - havE 'chicken'
 
-###s 
+### s 
 - sorE 'week; Sunday'
 
-###l 
+### l 
 - nilE 'egg'
 - kle 'burp'
 
-###r 
+### r 
 - pErE 'biscuits'
 
-###w ###
+### w
 - ngewa 'hello y'all'
 - ba winyo? 'what's up'
 
-
-###y ###
+### y
 - yeko 'voici'
-= yu 'child'
+- yu 'child'
 
-###h ###
+### h
 - hwoN 'here'
 - hii 'yes'
 - hoo 'no'
