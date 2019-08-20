@@ -30,17 +30,28 @@ The nucleus can optionally be followed by a nasal or a glottal. The nature of th
 - ndi 'mother'
 
 ### CCV  
+#### CwV
 - gwE 'chimp'
+
+#### CrV
 - kra 'now'
+ 
+#### ClV
 - kli 'strong'
-- Glaafoo 'landline telephone'
+- glaafoo 'landline telephone'
 - kle 'burp'
 
 ### CVC 
+#### CVN
 - koolèng 'forest'
+
+#### CVH
 - poh 'leg'
 
 ### CCVC
+#### CwVC
 - hwong 'here' 
 - pwèh 'legs'
+
+#### CrVC
 - hrEN 'hurt'
