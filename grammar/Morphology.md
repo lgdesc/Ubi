@@ -12,6 +12,9 @@ Poh - leg Pwèh - legs
 singular o, plural i
 Oumoh - butt cheek  Oumi - butt (both sides!)
 
+e -i 
+nilè egg  nili eggs
+
 
 Singulative formation (i.e. the unmarked form is the plural, and the singular is overtly marked):
 
