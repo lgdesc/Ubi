@@ -1,21 +1,23 @@
 some note on number formation:
 
-singular o-a, plural u-i
-Nowah - Ear Nouwi - Ears
-Korah - hand Kouri - hands
+## singular o-a, plural u-i
 
-singular o, plural e
-Gbo - foot Gbé - feet
-HwoN - arm HwèN - arms
-Poh - leg Pwèh - legs
+- nowah 'ear' -- nouwi 'ears'
+- korah 'hand' -- kouri 'hands'
 
-singular o, plural i
-Oumoh - butt cheek  Oumi - butt (both sides!)
+## singular o, plural e
 
-e -i 
-nilè egg  nili eggs
+- gbo 'foot' -- gbé 'feet'
+- hwoN 'arm' -- hwèN 'arms'
+- poh 'leg' -- pwèh 'legs'
+
+## singular o, plural i
+- oumoh 'butt cheek' -- oumi 'buttocks'
+
+## e -i 
+- nilè 'egg'  nili 'eggs'
 
 
-Singulative formation (i.e. the unmarked form is the plural, and the singular is overtly marked):
+## Singulative formation (i.e. the unmarked form is the plural, and the singular is overtly marked):
 
-Yi - Eyes Yirogbo - Eye 
+- yi 'eyes' -- yirogbo 'eye' 
