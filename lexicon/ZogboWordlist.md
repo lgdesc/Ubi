@@ -8,15 +8,15 @@ hõ bras
 
 jùrù brouillard
 
-gòléhm=´ cent
+gòléh̄m´ cent
 
-b@lE chanter
+bəlE chanter
 
 mi cheveu
 
-gb`@ cinq
+gbə̀   cinq
 
-w=ul=u corde 
+w̄ūl̄ū corde 
 
 ngWẼ corne
 
@@ -24,7 +24,7 @@ pòlò cou
 
 búlúiro creuser
 
-hW@~ deux
+hW̃ə  deux
 
 pue dix
 
@@ -36,17 +36,17 @@ nyÉ eau
 
 yu enfant
 
-ny=ir=õ femme
+nyīrȭ femme
 
 nàní feu
 
 mEra huit
 
-mu=@gli intestin
+muə̄gli intestin
 
 bo jambe
 
-nyìr`õ jour
+nyìr̀õ jour
 
 hÕliE lune
 
@@ -62,31 +62,31 @@ kU mourir
 
 mÉnyÈ neuf
 
-m=e=ã nez
+mēã nez
 
-nyír´õ nom
+nyírõ nom
 
-n~@ nombril
+nə̃  nombril
 
-y=ir=o oeil
+ȳīrō oeil
 
 hawEngĨnE oeuf
 
-n=o=a oreille
+nōā oreille
 
 kala os
 
 bui père
 
-t=u=E pousser
+t̄ūĒ pousser
 
-múl`Õ poussière
+múlÕ̀   poussière
 
-h~@ quatre
+hə̃  quatre
 
 ba queue
 
-dòùl=a sang
+dòùlā sang
 
 h`ũsÓ sept
 
@@ -94,7 +94,7 @@ here serpent
 
 h´ũdò six
 
-j=ir=o soleil 
+j̄īrō soleil 
 
 gìrÈlÓ tirer
 
@@ -102,17 +102,10 @@ t´ã trois
 
 wOlO tuer
 
-d=o un
+dō un
 
 dó venir 
 
-g=or=o vingt
+gōrō vingt
 
 wÒlà vomir 
-
-
-
-
-
-
-
