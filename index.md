@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Oubi language
+--- 
+
+
 This is an online description of the Ubi language. 
 
 Ubi is spoken in Côte d'Ivoire by about 5000 people. 
