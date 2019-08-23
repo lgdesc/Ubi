@@ -3,7 +3,7 @@
 There are at least the following vowels: 
 
 ### i 
-- mi 'o'
+- mi 'go'
 
 ### e 
 - kle 'burp'
