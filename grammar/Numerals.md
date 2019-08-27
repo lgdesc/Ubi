@@ -8,4 +8,15 @@ There are audio files for the numbers:
 - 7 <audio controls>  <source src="../media/audio/7o.mp3" type="audio/mpeg"> </audio>
 - 8 <audio controls>  <source src="../media/audio/8o.mp3" type="audio/mpeg"> </audio>
 - 9 <audio controls>  <source src="../media/audio/9o.mp3" type="audio/mpeg"> </audio> 
+- 10 <audio controls>  <source src="../media/audio/10o.mp3" type="audio/mpeg"> </audio>
+- 11 <audio controls>  <source src="../media/audio/11o.mp3" type="audio/mpeg"> </audio>
+- 12 <audio controls>  <source src="../media/audio/12o.mp3" type="audio/mpeg"> </audio>
+- 13 <audio controls>  <source src="../media/audio/13o.mp3" type="audio/mpeg"> </audio>
+- 14 <audio controls>  <source src="../media/audio/14o.mp3" type="audio/mpeg"> </audio>
+- 15 <audio controls>  <source src="../media/audio/15o.mp3" type="audio/mpeg"> </audio>
+- 16 <audio controls>  <source src="../media/audio/16o.mp3" type="audio/mpeg"> </audio>
+- 17 <audio controls>  <source src="../media/audio/17o.mp3" type="audio/mpeg"> </audio>
+- 18 <audio controls>  <source src="../media/audio/18o.mp3" type="audio/mpeg"> </audio>
+- 19 <audio controls>  <source src="../media/audio/19o.mp3" type="audio/mpeg"> </audio> 
+- 20 <audio controls>  <source src="../media/audio/20o.mp3" type="audio/mpeg"> </audio> 
 
