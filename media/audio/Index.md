@@ -1,3 +1,5 @@
+<audio controls><source src="https://lgdesc.github.io/glio1241/media/audio/1o.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
 * https://lgdesc.github.io/glio1241/media/audio/1o.mp3
 * https://lgdesc.github.io/glio1241/media/audio/2o.mp3
 * https://lgdesc.github.io/glio1241/media/audio/3o.mp3
