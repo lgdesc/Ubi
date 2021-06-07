@@ -24,6 +24,8 @@ Example sentences are accompanied by audio files.
 
 A list of audio files can be found in the [audio index].
 
+![](https://lgdesc.github.io/glio1241/media/graphics/Tai-team.jpg)
+
 
 
 [phonology]: https://lgdesc.github.io/glio1241/grammar/Phonology
