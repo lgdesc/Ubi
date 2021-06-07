@@ -9,107 +9,122 @@ There are at least the following vowels:
 - kle 'burp'
 
 
-### E 
-- pErE 'biscuits'
+### ɛ
+- *pɛrɛ* 'biscuits'
 
 
 ### a 
-- ba winyo? 'what's up'
+- *ba winyo?* 'what's up'
 
-### O 
+### ɔ
 
 
 ### o 
-- ko 'rice'
+- *ko* 'rice'
 
 ### u 
-- du 'brother'
+- *du* 'brother'
 
 
 ## Consonants
 
 There are at least the following consonants
 
+----
+|        | Labial | Alveolar | Palatal | Velar | Uvular |
+|--------|----------|---------|--------|-------|-------|
+| stops | p b | t d |  | k ɡ |   |
+| fricatives | f  | s (ʃ) |  |  |h  |
+| affricates |  |  | dʒ tʃ |  |   |
+| nasals | m | n | ɲ | ŋ |  |
+| laterals |  | l |  |  |   |
+| rhotics |  | r |  |  |   |
+| approximants | w |  | j |  |   |
+| complex | ᵐb | ⁿd | (ⁿdʒ) | ɡb (ᵑɡ) ||
+
+
+
+
 ### p 
-- pErE 'biscuits'
-- parong 'baby'
+- *pɛrɛ* 'biscuits'
+- *parong* 'baby'
 
 ### t 
-- taro 'welcome to someone from far'
+- *taro* 'welcome to someone from far'
 
 ### c 
-- cEdE 'it's cold'
-- cEni 'I am cold'
+- *cɛdɛ* 'it's cold'
+- *cɛni* 'I am cold'
 
 ### k 
-- ko 'rice'
-- kle 'burp'
+- *ko* 'rice'
+- *kle* 'burp'
 
 ### b 
-- baje 'where?'
+- *baje* 'where?'
 
 ### d 
-- du 'brother'
+- *du* 'brother'
 
 ### j
-- baje 'where?'
-- jiiroo 'welcome to someone from close by'
-- jEE 'voilà'
+- *baje* 'where?'
+- *jiiroo* 'welcome to someone from close by'
+- *jɛɛ* 'voilà'
 
 ### g 
-- gwE 'chimp'
-- glaafoo 'telephone land line'
+- *gwɛ* 'chimp'
+- *glaafoo* 'telephone land line'
 
 ### m 
-- mea 'nose'
-- umi 'buttocks'
+- *mea* 'nose'
+- *umi* 'buttocks'
 
 ### n 
-- na 'my'
-- nilE 'egg'
+- *na* 'my'
+- *nilɛ* 'egg'
 
 ### ny
-- nyoro 'female'
-- ba winyo? 'what's up'
+- *nyoro* 'female'
+- *ba winyo?* 'what's up'
 
 ### ng 
-- ngewa 'hello y'all'
-- parong 'baby'
+- *ŋewa* 'hello y'all'
+- *paroŋ* 'baby'
 
 ### mb 
-- mbi 'father'
+- *mbi* 'father'
 
 ### nd 
-- ndi 'mother' 
+- *ndi* 'mother'
 
 ## gb
-- gbo 'foot'
+- *gbo* 'foot'
 
 ### f
-- glaafoo 'telephone land line'
+- *glaafoo* 'telephone land line'
 
 ### v
-- havE 'chicken'
+- *havɛ* 'chicken'
 
 ### s 
-- sorE 'week; Sunday'
+- *sorɛ* 'week; Sunday'
 
 ### l 
-- nilE 'egg'
-- kle 'burp'
+- *nilɛ* 'egg'
+- *kle* 'burp'
 
 ### r 
-- pErE 'biscuits'
+- *pɛrɛ* 'biscuits'
 
 ### w
-- ngewa 'hello y'all'
-- ba winyo? 'what's up'
+- *ŋewa* 'hello y'all'
+- *ba winyo?* 'what's up'
 
 ### y
-- yeko 'voici'
-- yu 'child'
+- *yeko* 'voici'
+- *yu* 'child'
 
 ### h
-- hwoN 'here'
-- hii 'yes'
-- hoo 'no'
+- *hwoŋ* 'here'
+- *hii* 'yes'
+- *hoo* 'no'
