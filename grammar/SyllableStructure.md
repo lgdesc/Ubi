@@ -46,7 +46,7 @@ Attested words with complex onsets are
 - ***kr**a* 'now`
 - ***hr**ɛŋ*
 - ***chr**ɔ*  'butterfly'
-- ***sr**ɛ* 'braids'%nattes
+- ***sr**ɛ* 'braids' <!--  nattes -->
 
 - ***pw**ɛ* 'legs'
 - ***djw**ɛ* ''
