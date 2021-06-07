@@ -31,6 +31,8 @@ There are at least the following vowels:
 There are at least the following consonants
 
 ----
+
+
 |        | Labial | Alveolar | Palatal | Velar | Uvular |
 |--------|----------|---------|--------|-------|-------|
 | stops | p b | t d |  | k ɡ |   |
