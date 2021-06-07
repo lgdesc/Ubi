@@ -20,9 +20,9 @@ The nucleus may equally consist of a nasal.
 
 - *m* 'five'
 
-![](../media/graphics/m.png "m 'five'")
+![](https://lgdesc.github.io/glio1241/media/graphics/m.png "m 'five'")
 
-* <audio controls><source src="https://lgdesc.github.io/glio1241/media/audio/6o.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+* <audio controls><source src="https://lgdesc.github.io/glio1241/media/audio/5o.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 
 
@@ -46,7 +46,7 @@ Attested words with complex onsets are
 - ***kr**a* 'now`
 - ***hr**ɛŋ*
 - ***chr**ɔ*  'butterfly'
-- ***sr**ɛ* 'braids' <!--  nattes -->
+- ***sr**ɛ* 'braids'    <!--  nattes -->
 
 - ***pw**ɛ* 'legs'
 - ***djw**ɛ* ''
