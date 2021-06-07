@@ -1,6 +1,6 @@
 There are audio files for the numbers:
 
-The numbers follow a vigesimal system. 40 is 2x20. 50 is 2x20+10. Their might be vestiges of a quinary system, but the non-five part in the numbers 6-9 cannot be analyzed as of yet. 
+The numbers follow a vigesimal system. 40 is 2x20. 50 is 2x20+10, 100 is 5x20. There might be vestiges of a quinary system, but the non-five part in the numbers 6-9 cannot be analyzed as of yet.
 
 - 1   <audio controls>  <source src="../media/audio/1o.mp3"   type="audio/mpeg"> </audio>
 - 2   <audio controls>  <source src="../media/audio/2o.mp3"   type="audio/mpeg"> </audio>
