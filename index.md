@@ -24,7 +24,7 @@ Example sentences are accompanied by audio files.
 
 A list of audio files can be found in the [audio index].
 
-![](https://lgdesc.github.io/glio1241/media/graphics/Tai-team.jpg)
+![](https://lgdesc.github.io/glio1241/media/graphics/Tai-team.jpg "The Tai chimp station team")
 
 
 
