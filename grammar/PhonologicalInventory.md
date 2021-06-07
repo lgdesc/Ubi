@@ -33,16 +33,16 @@ There are at least the following consonants
 ----
 
 
-|        | Labial | Alveolar | Palatal | Velar | Uvular |
-|--------|----------|---------|--------|-------|-------|
-| stops | p b | t d |  | k ɡ |   |
-| fricatives | f  | s (ʃ) |  |  |h  |
-| affricates |  |  | dʒ tʃ |  |   |
-| nasals | m | n | ɲ | ŋ |  |
-| laterals |  | l |  |  |   |
-| rhotics |  | r |  |  |   |
-| approximants | w |  | j |  |   |
-| complex | ᵐb | ⁿd | (ⁿdʒ) | ɡb (ᵑɡ) ||
+|            | Labial | Alveolar | Palatal | Velar | Uvular |
+|------------|--------|----------|---------|-------|-------|
+| stops      | p b    | t d      |         | k ɡ   |       |
+| fricatives | f      | s (ʃ)    |         |       |h      |
+| affricates |        |          | dʒ tʃ   |       |       |
+| nasals     | m      | n        | ɲ       | ŋ     |       |
+| laterals   |        | l        |         |       |       |
+| rhotics    |        | r        |         |       |       |
+| approximants | w    |          | j       |       |       |
+| complex    | ᵐb     | ⁿd       | (ⁿdʒ)   | ɡb (ᵑɡ) |     |
 
 
 
